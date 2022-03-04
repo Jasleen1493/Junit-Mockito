@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c13cc493-9b42-466b-9125-6324b4072e3c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="25qLKtJ6aedaphnwtHnZUIt3AWN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.project" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.healthycoderapp" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.BMICalculatorTest">
+    <configuration name="BMICalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HealthyCoderApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.healthycoderapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.healthycoderapp" />
+      <option name="MAIN_CLASS_NAME" value="com.healthycoderapp.BMICalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BMICalculatorTest.repeatedTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HealthyCoderApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.healthycoderapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.healthycoderapp" />
+      <option name="MAIN_CLASS_NAME" value="com.healthycoderapp.BMICalculatorTest" />
+      <option name="METHOD_NAME" value="repeatedTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BMICalculatorTest.should_returnCodeWithWorstBMI_In1Millisec_When_CoderListHas10000Elements" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HealthyCoderApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.healthycoderapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.healthycoderapp" />
+      <option name="MAIN_CLASS_NAME" value="com.healthycoderapp.BMICalculatorTest" />
+      <option name="METHOD_NAME" value="should_returnCodeWithWorstBMI_In1Millisec_When_CoderListHas10000Elements" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BMICalculatorTest.should_returnCodeWithWorstBMI_In500Millisec_When_CoderListHas10000Elements" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HealthyCoderApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.healthycoderapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.healthycoderapp" />
+      <option name="MAIN_CLASS_NAME" value="com.healthycoderapp.BMICalculatorTest" />
+      <option name="METHOD_NAME" value="should_returnCodeWithWorstBMI_In500Millisec_When_CoderListHas10000Elements" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BMICalculatorTest.should_returnTrue_when_DietRecommended_CsvFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HealthyCoderApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.healthycoderapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.healthycoderapp" />
+      <option name="MAIN_CLASS_NAME" value="com.healthycoderapp.BMICalculatorTest" />
+      <option name="METHOD_NAME" value="should_returnTrue_when_DietRecommended_CsvFile(java.lang.Double,java.lang.Double)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BMICalculatorTest" />
+        <item itemvalue="JUnit.BMICalculatorTest.should_returnCodeWithWorstBMI_In500Millisec_When_CoderListHas10000Elements" />
+        <item itemvalue="JUnit.BMICalculatorTest.should_returnCodeWithWorstBMI_In1Millisec_When_CoderListHas10000Elements" />
+        <item itemvalue="JUnit.BMICalculatorTest.repeatedTest" />
+        <item itemvalue="JUnit.BMICalculatorTest.should_returnTrue_when_DietRecommended_CsvFile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c13cc493-9b42-466b-9125-6324b4072e3c" name="Default Changelist" comment="" />
+      <created>1646249608058</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646249608058</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="121" y="0" key="#Project_Structure" timestamp="1646304415777">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1646304415777" />
+    <state x="371" y="117" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1646291171230">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="117" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1646291171230" />
+    <state x="365" y="29" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1646291350900">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="365" y="29" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1280.680@0.0.1280.680" timestamp="1646291350900" />
+    <state width="1222" height="163" key="GridCell.Tab.0.bottom" timestamp="1646383381030">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1646383381030" />
+    <state width="1222" height="163" key="GridCell.Tab.0.center" timestamp="1646383381030">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1646383381030" />
+    <state width="1222" height="163" key="GridCell.Tab.0.left" timestamp="1646383381030">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1646383381030" />
+    <state width="1222" height="163" key="GridCell.Tab.0.right" timestamp="1646383381030">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1646383381030" />
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog" timestamp="1646303758574">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1646303758574" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1646291241786">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1646291241786" />
+    <state x="451" y="119" key="chooseDestDirectoryDialog" timestamp="1646291186348">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="451" y="119" key="chooseDestDirectoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1646291186348" />
+    <state x="412" y="123" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1646303012737">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="412" y="123" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.680@0.0.1280.680" timestamp="1646303012737" />
+    <state x="297" y="153" key="run.anything.popup" timestamp="1646305965869">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="153" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1646305965869" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1646294536287">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1646294536287" />
+  </component>
+</project>
